@@ -45,4 +45,4 @@ Ce script a été développé pour traiter et analyser des articles scientifique
 
 ## Support et Contact
 
-Pour toute question, commentaire ou besoin d'assistance, veuillez contacter "support@sprint5.com".
+Pour toute question, commentaire ou besoin d'assistance, veuillez contacter "yboudount84@gmail.com".
